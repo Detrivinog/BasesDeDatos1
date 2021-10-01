@@ -15,3 +15,4 @@ SELECT * FROM emarket.vistaclientes;
 select
 	case 
 		when length(trim(fax)) = 0 then Telefono
+	
